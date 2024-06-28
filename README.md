@@ -7,4 +7,4 @@ World Cup Database es un proyecto de <a href="https://www.freecodecamp.org/"> fr
 Este proyecto viene después de los módulos "Learn Bash Scripting by Building Five Programs", "Learn SQL by Building a Student Database: Part 1" y "Learn SQL by Building a Student Database: Part 2".
 
 ## Tecnologías utilizadas
-La tecnología utilizada fue PostgreSQL.
+La tecnología utilizada fue <b> PostgreSQL. </b>
